@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/scottgriv/python-json_parser" target="_blank">
-        <img src="./docs/images/icon.png" width="150" height="150"/>
+        <img src="./docs/images/icon.png" width="125" height="125"/>
     </a>
 </div>
 <br>
